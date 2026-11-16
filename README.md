@@ -1,5 +1,3 @@
-# eileen-cahill
-
 📍 Product Designer based in San Francisco, CA. 
 
 Currently building digital products and leveraging AI agents for my design studio, BDE. Stay tuned!
